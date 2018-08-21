@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Odnaz Store</string>
+    <string name="action_signOut">Sign out</string>
+    <string name="action_search">Search</string>
 </resources>
